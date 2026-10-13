@@ -73,7 +73,7 @@ A fully automated reporting system that **pulls data out of Odoo every night, cl
 </p>
 
 <p align="center">
-  <a href="https://github.com/abdusami-mohammed/odoo-to-powerbi-automated-reporting/blob/main/docs/index.html">
+  <a href="https://abdusami-mohammed.github.io/odoo-to-powerbi-automated-reporting/">
     <img src="https://img.shields.io/badge/▶_Try_the_interactive_demo-F2C811?style=for-the-badge&logoColor=black" height="42"/>
   </a>
   <br/><sub>Click through the reports and switch between the two companies in your browser.</sub>

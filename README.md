@@ -74,7 +74,7 @@ A fully automated reporting system that **pulls data out of Odoo every night, cl
 </p>
 
 <p align="center">
-  <a href="https://YOUR-GITHUB-USERNAME.github.io/REPO-NAME/">
+  <a href="https://abdusami-mohammed.github.io/odoo-to-powerbi-automated-reporting/?page=cockpit">
     <img src="https://img.shields.io/badge/▶%20%20Open%20the%20live%20demo-F2C811?style=for-the-badge&labelColor=0d1117" height="44" alt="Open the live demo"/>
   </a>
   <br/><sub>Click any bar, region or row to cross-filter. Switch companies, quarters and months. Toggle the P&amp;L matrix.</sub>

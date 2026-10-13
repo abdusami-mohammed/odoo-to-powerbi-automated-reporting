@@ -44,6 +44,13 @@ A fully automated reporting system that **pulls data out of Odoo every night, cl
 | 🛡️ **Reliability** | Nobody knew when a report was wrong | Automatic alerts if anything fails or changes |
 | ⚙️ **Flexibility** | Fixed manual process | Refresh schedule tailored to the business |
 
+<p align="center">
+  <img src="assets/stats.svg" width="100%" alt="39 Odoo models · 26 SQL views · 47 model tables · 106 relationships · 267 DAX measures · 6 departments · 22 report pages"/>
+</p>
+
+> Page count undersells it. Each page carries drill-downs, slicers, toggles and comparisons that used to be separate Excel files.
+
+
 ---
 
 ## 🗺️ How It Works
@@ -64,21 +71,12 @@ A fully automated reporting system that **pulls data out of Odoo every night, cl
 
 <p align="center">
   <img src="assets/report-carousel.gif" width="92%" alt="Report preview carousel"/>
-  <br/><sub><i>Faithful recreations of the delivered reports, filled with fictional dummy data.</i></sub>
+  <br/><sub><i>Actual report pages. Names and figures replaced with mock data to protect client confidentiality.</i></sub>
 </p>
 
-### 🖱️ It's interactive
-
-<p align="center">
-  <img src="assets/interactive-demo.gif" width="92%" alt="Cross-filtering, company toggles, trend view and P&amp;L matrix in action"/>
-</p>
-
-<p align="center">
-  <a href="https://abdusami-mohammed.github.io/odoo-to-powerbi-automated-reporting/?page=cockpit">
-    <img src="https://img.shields.io/badge/▶%20%20Open%20the%20live%20demo-F2C811?style=for-the-badge&labelColor=0d1117" height="44" alt="Open the live demo"/>
-  </a>
-  <br/><sub>Click any bar, region or row to cross-filter. Switch companies, quarters and months. Toggle the P&amp;L matrix.</sub>
-</p>
+<!-- 🎥 Optional: record a 20-sec screen capture of the real Power BI file (mock data) clicking slicers/toggles, save as assets/interactive-demo.gif and uncomment:
+<p align="center"><img src="assets/interactive-demo.gif" width="92%"/></p>
+-->
 
 <table>
 <tr>
@@ -117,17 +115,17 @@ Showroom Sales & Profitability · Salesperson Performance vs target
 **CEO Cockpit**
 <img src="assets/screenshots/01-cockpit.png" width="100%"/>
 
-**Growth & Profitability**
+**Growth &amp; Profitability**
 <img src="assets/screenshots/02-growth.png" width="100%"/>
 
-**P&L**
+**P&amp;L**
 <img src="assets/screenshots/03-pnl.png" width="100%"/>
 
 **B2B Sales Performance**
 <img src="assets/screenshots/04-sales.png" width="100%"/>
 
-**Showroom Performance**
-<img src="assets/screenshots/05-showroom.png" width="100%"/>
+**Customer Analysis**
+<img src="assets/screenshots/07-customers.png" width="100%"/>
 
 **Slow-Moving Inventory**
 <img src="assets/screenshots/06-slow.png" width="100%"/>
@@ -136,13 +134,6 @@ Showroom Sales & Profitability · Salesperson Performance vs target
 
 ---
 
-<p align="center">
-  <img src="assets/stats.svg" width="100%" alt="39 Odoo models · 26 SQL views · 47 model tables · 106 relationships · 267 DAX measures · 6 departments · 22 report pages"/>
-</p>
-
-> Page count undersells it. Each page carries drill-downs, slicers, toggles and comparisons that used to be separate Excel files.
-
----
 
 ## ✨ What Makes It Different
 
@@ -244,7 +235,7 @@ mindmap
 
 ## 🔒 A Note on Confidentiality
 
-The client's name, data and source code are not published. All screenshots and the interactive demo are faithful recreations of the delivered reports, filled with dummy data. The pipeline is proprietary work and is not available in this repository.
+The client's name, data and source code are not published. All screenshots use mock figures, and every customer, salesperson, product and company name has been replaced. The pipeline is proprietary work and is not available in this repository.
 
 ---
 

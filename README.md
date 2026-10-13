@@ -1,10 +1,5 @@
-<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:a24bdb,100:f2c811&height=200&section=header&text=Odoo%20→%20Power%20BI&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Automated%20Business%20Intelligence%20for%20a%20Multi-Branch%20Retail%20%26%20Wholesale%20Group&descAlignY=58&descSize=16" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F2C811&center=true&vCenter=true&width=700&lines=No+more+manual+Excel+reports.;Every+department.+One+version+of+the+truth.;Fresh+numbers+every+morning%2C+automatically.;Built+on+top+of+your+existing+Odoo." alt="typing"/>
+  <img src="assets/header.svg" width="100%" alt="Odoo to Power BI — Automated Business Intelligence for a Multi-Branch Retail &amp; Wholesale Group"/>
 </p>
 
 <p align="center">
@@ -69,14 +64,20 @@ A fully automated reporting system that **pulls data out of Odoo every night, cl
 
 <p align="center">
   <img src="assets/report-carousel.gif" width="92%" alt="Report preview carousel"/>
-  <br/><sub><i>Recreated with dummy data to protect client confidentiality.</i></sub>
+  <br/><sub><i>Faithful recreations of the delivered reports, filled with fictional dummy data.</i></sub>
+</p>
+
+### 🖱️ It's interactive
+
+<p align="center">
+  <img src="assets/interactive-demo.gif" width="92%" alt="Cross-filtering, company toggles, trend view and P&amp;L matrix in action"/>
 </p>
 
 <p align="center">
-  <a href="https://abdusami-mohammed.github.io/odoo-to-powerbi-automated-reporting/">
-    <img src="https://img.shields.io/badge/▶_Try_the_interactive_demo-F2C811?style=for-the-badge&logoColor=black" height="42"/>
+  <a href="https://YOUR-GITHUB-USERNAME.github.io/REPO-NAME/">
+    <img src="https://img.shields.io/badge/▶%20%20Open%20the%20live%20demo-F2C811?style=for-the-badge&labelColor=0d1117" height="44" alt="Open the live demo"/>
   </a>
-  <br/><sub>Click through the reports and switch between the two companies in your browser.</sub>
+  <br/><sub>Click any bar, region or row to cross-filter. Switch companies, quarters and months. Toggle the P&amp;L matrix.</sub>
 </p>
 
 <table>
@@ -135,16 +136,8 @@ Showroom Sales & Profitability · Salesperson Performance vs target
 
 ---
 
-## 🔢 By the Numbers
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo_models_synced-39-a24bdb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL_views-26-00e599?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Model_tables-47-f2c811?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Relationships-106-f2c811?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DAX_measures-267-f2c811?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Departments-6-2ea44f?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Report_pages-22-2ea44f?style=flat-square"/>
+  <img src="assets/stats.svg" width="100%" alt="39 Odoo models · 26 SQL views · 47 model tables · 106 relationships · 267 DAX measures · 6 departments · 22 report pages"/>
 </p>
 
 > Page count undersells it. Each page carries drill-downs, slicers, toggles and comparisons that used to be separate Excel files.
@@ -286,5 +279,5 @@ I build end-to-end BI on top of Odoo: data pipeline, data warehouse, Power BI mo
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2c811,50:a24bdb,100:0d1117&height=110&section=footer" width="100%"/>
+  <img src="assets/footer.svg" width="100%"/>
 </p>

@@ -32,7 +32,7 @@ A **single business group operating as two companies** in Saudi Arabia, a **mult
 
 > *"We have all the data in Odoo, but getting a straight answer takes days."*
 
-- 📑 Every department built its own reports **by hand in Excel**, taking days.
+- 📑 Every department built its own reports **by hand in Excel**, so numbers rarely matched between teams.
 - 🐢 Management decisions were waiting on **exports, copy-paste and reconciliation**.
 - 🧩 Two companies, retail and wholesale, many warehouses, with **no single combined view** of the business.
 - 🔒 The client was on **Odoo's affordable shared hosting**, which **does not allow direct database access**. The standard "connect the database to BI" tools on the market simply could not be used.
@@ -67,13 +67,16 @@ A fully automated reporting system that **pulls data out of Odoo every night, cl
 
 ## 📊 The Reports
 
-<!--
-  📸 CAROUSEL: create assets/report-carousel.gif from the 5 screenshots below (see instructions in repo notes).
-  Recommended order: CEO Cockpit → P&L → B2B Sales Performance → Showroom Sales Performance → Slow-Moving Inventory
--->
 <p align="center">
-  <img src="assets/report-carousel.gif" width="90%" alt="Report preview carousel (dummy data)"/>
-  <br/><sub><i>Screens shown with dummy data to protect client confidentiality.</i></sub>
+  <img src="assets/report-carousel.gif" width="92%" alt="Report preview carousel"/>
+  <br/><sub><i>Recreated with dummy data to protect client confidentiality.</i></sub>
+</p>
+
+<p align="center">
+  <a href="https://YOUR-GITHUB-USERNAME.github.io/REPO-NAME/">
+    <img src="https://img.shields.io/badge/▶_Try_the_interactive_demo-F2C811?style=for-the-badge&logoColor=black" height="42"/>
+  </a>
+  <br/><sub>Click through the reports and switch between the two companies in your browser.</sub>
 </p>
 
 <table>
@@ -110,23 +113,23 @@ Showroom Sales & Profitability · Salesperson Performance vs target
 <summary><b>📸 More screenshots</b></summary>
 <br/>
 
-<!-- 📸 Paste: Executive → CEO Cockpit -->
-<img src="assets/screenshots/01-ceo-cockpit.png" width="100%"/>
+**CEO Cockpit**
+<img src="assets/screenshots/01-cockpit.png" width="100%"/>
 
-<!-- 📸 Paste: Executive → Growth & Profitability -->
-<img src="assets/screenshots/02-growth-profitability.png" width="100%"/>
+**Growth & Profitability**
+<img src="assets/screenshots/02-growth.png" width="100%"/>
 
-<!-- 📸 Paste: Finance → P&L Statement -->
-<img src="assets/screenshots/03-finance-pnl.png" width="100%"/>
+**P&L**
+<img src="assets/screenshots/03-pnl.png" width="100%"/>
 
-<!-- 📸 Paste: B2B Sales → Sales Performance -->
-<img src="assets/screenshots/04-b2b-sales-performance.png" width="100%"/>
+**B2B Sales Performance**
+<img src="assets/screenshots/04-sales.png" width="100%"/>
 
-<!-- 📸 Paste: B2C → Showroom Sales Performance -->
-<img src="assets/screenshots/05-showroom-performance.png" width="100%"/>
+**Showroom Performance**
+<img src="assets/screenshots/05-showroom.png" width="100%"/>
 
-<!-- 📸 Paste: Inventory → Slow-Moving Inventory -->
-<img src="assets/screenshots/06-slow-moving-inventory.png" width="100%"/>
+**Slow-Moving Inventory**
+<img src="assets/screenshots/06-slow.png" width="100%"/>
 
 </details>
 
@@ -248,7 +251,7 @@ mindmap
 
 ## 🔒 A Note on Confidentiality
 
-The client's name, data and source code are not published. All screenshots use dummy data. The pipeline is proprietary work and is not available in this repository.
+The client's name, data and source code are not published. All screenshots and the interactive demo are faithful recreations of the delivered reports, filled with dummy data. The pipeline is proprietary work and is not available in this repository.
 
 ---
 

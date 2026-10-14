@@ -185,7 +185,10 @@ Arabic and English master data, two legal companies, retail and wholesale channe
 
 ---
 
-## 🧠 Project Map
+<details>
+<summary><h2>🧠 Project Map</h2></summary>
+
+<br/>
 
 ```mermaid
 mindmap
@@ -217,6 +220,10 @@ mindmap
       B2B Sales
       B2C Showrooms
 ```
+
+</details>
+
+---
 
 ---
 
@@ -263,7 +270,7 @@ I build end-to-end BI on top of Odoo: data pipeline, data warehouse, Power BI mo
   <img src="https://img.shields.io/badge/Email_me-abdusami.mohammed%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<sub>📍 Saudi Arabia · Available for projects</sub>
+<sub>📍 Saudi Arabia · Available for remote projects</sub>
 
 </td>
 </tr>
